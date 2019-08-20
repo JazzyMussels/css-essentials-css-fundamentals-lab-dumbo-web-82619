@@ -21,8 +21,11 @@ figcaption {
   font-size: 12px
 }
 
-p#eatured-property {
+#featured-property p {
   width: 800px;
   margin: auto
+}
+
+#details {
   
 }
