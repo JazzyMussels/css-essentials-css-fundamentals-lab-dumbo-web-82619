@@ -15,3 +15,9 @@ a {
   padding: 10px;
   background-color: grey
 }
+
+figcaption {
+  margin: auto;
+  font-size: 12px
+}
+
